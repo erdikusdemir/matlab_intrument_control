@@ -1,6 +1,6 @@
 # Instrument control by Matlab
 
-This repository originally written during my master studies between 2014-2015. .  
+This repository originally written during my master studies between 2014-2015.  
 Matlab GUI based softwares were used to control Keitley DC-DC and SRS Lock-in instrumentation tools.  
 Software communicates with the instruments over GPIB protocol.  
 MainProgram.fig is the main software unites the other software, but every individual software can be run by .fig file.  
