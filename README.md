@@ -11,8 +11,9 @@ MainProgram.fig is the main software unites the other software, but every indivi
 5. SRS 830 lockin amplifier,
 6. Arduino UNO based custom actuators and controllers.  
 
-<img src="https://github.com/erdikusdemir/matlab_intrument_control/blob/master/instrumentrack.jpg" width="600">
 Instrument rack  
+<img src="https://github.com/erdikusdemir/matlab_intrument_control/blob/master/instrumentrack.jpg" width="600">
 
-<img src="https://github.com/erdikusdemir/matlab_intrument_control/blob/master/lockin.JPG" width="700">
 Screen shot of the software interface
+<img src="https://github.com/erdikusdemir/matlab_intrument_control/blob/master/lockin.JPG" width="700">
+
